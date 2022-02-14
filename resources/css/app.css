@@ -1,0 +1,13 @@
+.skip-ink {
+    text-decoration-skip-ink: none;
+}
+
+.bg-app-primary {
+    background-color: #97aec8;
+}
+
+.circle {
+    border-radius: 100%;
+    border-color: #97aec8;
+    border-width: 5px;
+}
